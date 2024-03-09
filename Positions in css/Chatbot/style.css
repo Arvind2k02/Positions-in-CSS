@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+}
+
+nav{
+    background-color: #242b2e;
+    float: left;
+    margin-top: 0;
+    padding-top: 0;
+    width: 150px;
+    min-height: 100vh;
+}
+
+nav > img{
+    width: 100%;
+    background-color: skyblue;
+}
+
+a{
+    padding: 10px 25px;
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    border-bottom: 1px dashed black;
+}
+
+section{
+    margin: 0px 50px 0px 200px;
+    color: aliceblue;
+}
+
+section > h1{
+    color: blue;
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.Image > img{
+    width: 500px;
+}
+
+.Image{
+    text-align: center;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 25px;
+}
+
+.chatbot {
+    width: 60px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin-right: 10px;
+}

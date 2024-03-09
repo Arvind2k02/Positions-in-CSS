@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    margin-top: 200px;
+}
+
+button{
+    background-color: #ff6666;
+    padding: 10px 30px;
+    border: 0;
+    border-radius: 5px;
+    font-weight: bold;
+    position: relative;
+    color: black;
+}
+
+span{
+    background-color: #242b2e;
+    position: absolute;
+    padding: 5px 9px;
+    border-radius: 5px;
+    bottom: 25px;
+    font-size: 10px;
+    width: 40px;
+    color: #fff;
+}

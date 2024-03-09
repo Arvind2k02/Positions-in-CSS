@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+    color: #fff;
+}
+
+section{
+    float: left;
+    margin: 200px 50px;
+    width: 60%;
+}
+
+h1{
+    font-size: 60px;
+    margin: 0;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+button{
+    padding: 10px 20px;
+    margin-top: 20px;
+    color: #fff;
+    font-weight: 700;
+    background-color: #5a4bda;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color:tomato;
+}
+
+img{
+    float: right;
+    width: 30%;
+    margin-top: 150px;
+}
